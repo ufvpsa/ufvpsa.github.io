@@ -3,15 +3,14 @@ layout: page
 title: Contact Us
 ---
 
-<form action="https://formspree.io/ufv.physics@gmail.com"
-      method="POST">
-    <input type="text" name="name" placeholder="Your Name">
-	<p></p>
-    <input type="email" name="_replyto" placeholder="Your Email">
-	<p></p>
-	<input type="hidden" name="_subject" value="Website Contact" />
-	<p></p>
-	<textarea placeholder="Your message"></textarea>
-	<p></p>
-    <input type="submit" value="Send">
+<form id="contact-form" action="//formspree.io/ufv.physics@gmail.com" method="post">
+	<input type="text" name="Name" placeholder="Name" required>
+	<input type="email" name="Email" placeholder="Email" required>
+	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
+	<!-- CONFIG -->
+	<input type="text" name="_gotcha" style="display:none" />
+	<input type="hidden" name="_subject" value="Subject">
+	<input type="hidden" name="_cc" value="email@cc.com">
+	<!-- /CONFIG -->
+	<input class="submit" type="submit" value="Send">
 </form>
