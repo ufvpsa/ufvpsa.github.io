@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Events
+excerpt: "What's Happening with the PSA?"
 search_omit: true
 ---
 
