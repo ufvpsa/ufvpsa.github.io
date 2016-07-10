@@ -3,6 +3,8 @@ layout: page
 title: Events
 excerpt: "What's Happening with the PSA?"
 search_omit: true
+image:
+   feature: SocialHeader.jpg
 ---
 
 <ul class="post-list">

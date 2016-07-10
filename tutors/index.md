@@ -10,6 +10,6 @@ One of the services that the UFV PSA provides to the public is a tutor referral 
 * Tutors have a full support system behind them to advertise for new clients
 * Students can build lasting relationships with tutors, who often can give advice about pathways after high school
 
-If you're interested in connecting with the PSA either as a student or as a tutor, contact us via the form linked below.
+If you're interested in connecting with the PSA either as a student or as a tutor, send us an email.
 
-<a markdown="0" href="{{ site.url }}/contact/" class="btn">Contact</a>
+<a markdown="0" href="mailto:ufv.physics@gmail.com" class="btn">Email Us</a>
