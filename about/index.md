@@ -33,7 +33,7 @@ The Physics Student Association is a democratic organization which holds electio
 	<a href="http://jasonho.me/"><img src="/images/JasonThumb.jpg" alt="Jason Ho: President 2011-2013"></a>
 	<a href="http://www.joshaho.com"><img src="/images/JoshaHoThumb.jpg" alt="Josha Ho: President 2015-2016"></a>
 	<a href="https://www.sfu.ca/physics/people/profiles/etienned.html"><img src="/images/EtienneThumb.jpg" alt="Etienne Dreyer: Vice-President 2013-2015"></a>
-	<a href="http://www.math.uvic.ca/~dcwatson/"><img src="/images/CharlieThumb.jpg" alt="Charlie Watson: President 2009-2011"></a>
+	<a href="http://www.math.uvic.ca/~dcwatson/"><img src="/images/CharlieThumb.png" alt="Charlie Watson: President 2009-2011"></a>
 </figure>
 
 Interested in getting involved with the Physics Student Association?
