@@ -25,6 +25,14 @@ image:
 	<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="image"></a>
 	<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="image"></a>
 </figure>
+
+## Past Executives
+<figure class="third">
+	<a href="http://jasonho.me/"><img src="/images/JasonThumb.jpg" alt="Jason Ho: President 2011-2013"></a>
+	<a href="http://www.joshaho.com"><img src="/images/JoshaHoThumb.jpg" alt="Josha Ho: President 2015-2016"></a>
+	<a href="https://www.sfu.ca/physics/people/profiles/etienned.html"><img src="/images/EtienneThumb.jpg" alt="Etienne Dreyer: Vice-President 2013-2015"></a>
+</figure>
+
 Interested in getting involved with the Physics Student Association?
 
 The PSA has numerous ongoing initiatives during the semester on and off campus to learn more outside of the classroom environment and build your portfolio. Send us an email and we’ll connect you with something great!
