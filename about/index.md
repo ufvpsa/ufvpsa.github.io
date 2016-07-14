@@ -15,13 +15,13 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executive
 <figure class="third">
-	<a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
-	<a href="mailto:pwaldock@gmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
+    <a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
+	<a href="mailto:pwaldock@gmail.com"><img src="/images/AboutPerrinThumb.jpg" alt="image"></a>
 	<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="image"></a>
 </figure>
 
 ## Representatives
-<figure class="third">
+<figure class="quarter">
 	<a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
 	<a href="mailto:pwaldock@gmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
 	<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="image"></a>
@@ -29,7 +29,7 @@ The Physics Student Association is a democratic organization which holds electio
 </figure>
 
 ## Past Executives
-<figure class="third">
+<figure class="quarter">
 	<a href="http://jasonho.me/"><img src="/images/JasonThumb.jpg" alt="Jason Ho: President 2011-2013"></a>
 	<a href="http://www.joshaho.com"><img src="/images/JoshaHoThumb.jpg" alt="Josha Ho: President 2015-2016"></a>
 	<a href="https://www.sfu.ca/physics/people/profiles/etienned.html"><img src="/images/EtienneThumb.jpg" alt="Etienne Dreyer: Vice-President 2013-2015"></a>
