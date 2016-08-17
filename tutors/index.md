@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quant Tutors
+title: Tutors
 excerpt: "Tutoring Referral Service by the PSA"
 ---
 
