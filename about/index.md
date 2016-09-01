@@ -15,7 +15,7 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executive
 <figure class="third">
-    <a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/RyanChowdry.jpg" alt="image"></a>
+    <a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/RyanChowdry.jpg" alt="image"><figcaption>Caption goes here</figcaption></a>
 	<a href="mailto:pwaldock@gmail.com"><img src="/images/AboutPerrinThumb.jpg" alt="image"></a>
 	<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="image"></a>
 </figure>
