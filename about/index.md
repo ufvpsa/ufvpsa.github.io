@@ -16,9 +16,9 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executives
 <figure class="third">
-    <a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/RyanChowdry.jpg" alt="image"/></a>
-	<a href="mailto:pwaldock@gmail.com"><img src="/images/PerrinThumb.jpg" alt="image"/></a>
-<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="Secretary: Jess Davies"/></a>
+    <a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
+	<a href="mailto:pwaldock@gmail.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
+<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/PSALogo200.jpg" alt="Secretary: Jess Davies"/></a>
 </figure>
 
 <!---# Representatives
