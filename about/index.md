@@ -13,7 +13,7 @@ image:
 
 The Physics Student Association is a democratic organization which holds elections once per year. The structure is made of 3-5 executive members, and a varying amount of representative positions, depending on need.
 
-## Executive
+## Executives
 <figure class="third">
     <a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/RyanChowdry.jpg" alt="image"></a>
 	<a href="mailto:pwaldock@gmail.com"><img src="/images/AboutPerrinThumb.jpg" alt="image"></a>
