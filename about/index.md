@@ -21,14 +21,14 @@ The Physics Student Association is a democratic organization which holds electio
 <a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/PSALogo200.jpg" alt="Secretary: Jess Davies"/></a>
 </figure>
 
-<!---# Representatives
+# Representatives
 <figure class="quarter">
-	<a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
+	<a href="mailto:Valerie.Flokstra@student.ufv.ca"><img src="/images/ValerieThumb.jpg" alt="Valerie Flokstra"></a>
 	<a href="mailto:pwaldock@gmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
     <a href="mailto:ufv.physics@gmail.com"><img src="/images/psalogo-small.png" /></a>
 	<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="image"></a>
 </figure>
- --->
+
  
 ## Past Executives
 <figure class="quarter">
