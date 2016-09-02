@@ -24,11 +24,11 @@ The Physics Student Association is a democratic organization which holds electio
 
 # Representatives
 <figure class="quarter">
-	<a href="mailto:Valerie.Flokstra@student.ufv.ca"><img src="/images/ValerieThumb.jpg" alt="Valerie Flokstra"></a>
-	<a href="mailto:pwaldock@gmail.com"><img src="/images/psalogo-small.png" alt="image"></a>
+	<a href="mailto:Valerie.Flokstra@student.ufv.ca"><img src="/images/ValerieThumb.png" alt="Valerie Flokstra"></a>
+	<a href="mailto:marlee.fisher@student.ufv.ca"><img src="/images/MarleeHeadshot.jpg" alt="Marlee Fisher"></a>
     <a href="mailto:ufv.physics@gmail.com"><img src="/images/psalogo-small.png" /></a>
 	<a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/psalogo-small.png" alt="image"></a>
-<figcaption> Internal Rep Valerie Flokstra </figcaption>
+<figcaption> Internal Rep Valerie Flokstra, HR Rep Marlee Fisher </figcaption>
 </figure>
 
  
