@@ -16,9 +16,9 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executives
 <figure class="third">
-    <a href="mailto:ryanchowdhry@hotmail.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
-	<a href="mailto:pwaldock@gmail.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
-    <a href="mailto:ufv.physics@gmail.com?subject:Attn. Jess Davies"><img src="/images/PSALogo200.jpg" alt="Secretary: Jess Davies"/></a>
+    <a href="mailto:president@ufvpsa.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
+	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
+    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Secretary: Jess Davies"/></a>
 <figcaption> President Ryan Chowdry, Treasurer Perrin Waldock, and Secretary Jessica Davies </figcaption>
 </figure>
 
@@ -46,4 +46,4 @@ The PSA has numerous ongoing initiatives during the semester on and off campus t
 
 The UFV PSA is a registered student association under the University of the Fraser Valley Student Union Society. As such, we are governed by a democratic [**constitution**]({{site.url}}/assets/pdfs/2016-04-08PSAConstitution.pdf).
 
-<a markdown="0" href="mailto:ufv.physics@gmail.com" class="btn">Email Us</a>
+<a markdown="0" href="mailto:president@ufvpsa.com" class="btn">Email Us</a>
