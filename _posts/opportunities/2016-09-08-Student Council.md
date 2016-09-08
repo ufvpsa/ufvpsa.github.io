@@ -6,7 +6,7 @@ categories: opportunities
 excerpt:
 tags: [volunteer position]
 image: 
-feature: cacsheader.jpg
+feature: 
 date: 2016-09-08T11:51:00-04:00
 author: perrin
 ---
