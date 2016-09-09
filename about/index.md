@@ -24,11 +24,11 @@ The Physics Student Association is a democratic organization which holds electio
 
 # Representatives
 <figure class="quarter">
+    <a href="mailto:marlee.fisher@student.ufv.ca"><img src="/images/MarleeHeadshot.jpg" alt="Marlee Fisher"></a>
 	<a href="mailto:Valerie.Flokstra@student.ufv.ca"><img src="/images/ValerieThumb.png" alt="Valerie Flokstra"></a>
-<a href="mailto:Martin.Jungmark@student.ufv.ca"><img src="/images/MartinHeadshot.jpg" alt="Martin Jungmark"></a>
-<a href="mailto:Tori.Kornelsen@student.ufv.ca"><img src="/images/ToriHeadshot2.jpg" alt="Tori Kornelsen"></a>
-	<a href="mailto:marlee.fisher@student.ufv.ca"><img src="/images/MarleeHeadshot.jpg" alt="Marlee Fisher"></a>
-<figcaption> Internal Rep Valerie Flokstra, Internal Rep Martin Jungmark, Internal Rep Tori Kornelsen, and Social Media Representative Marlee Fisher </figcaption>
+    <a href="mailto:Martin.Jungmark@student.ufv.ca"><img src="/images/MartinHeadshot.jpg" alt="Martin Jungmark"></a>
+    <a href="mailto:Tori.Kornelsen@student.ufv.ca"><img src="/images/ToriHeadshot2.jpg" alt="Tori Kornelsen"></a>
+<figcaption> Social Media Rep Marlee Fisher, Internal Rep Valerie Flokstra, Internal Rep Martin Jungmark, and Internal Rep Tori Kornelsen</figcaption>
 </figure>
 
  
