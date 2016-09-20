@@ -6,7 +6,7 @@ categories: blog
 excerpt: What is dark matter? Nobody knows, but Dr. Terry Pilkington is trying to find out.
 tags: [experiential learning, academic, guest speaker]
 image: 
-  feature: dark-matter-sky-2.jpg
+feature: dark-matter-sky-2.jpg
 author: perrin
 ---
 
