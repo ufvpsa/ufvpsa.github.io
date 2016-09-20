@@ -31,6 +31,11 @@ The Physics Student Association is a democratic organization which holds electio
 <figcaption> Social Media Rep Marlee Fisher, Internal Rep Valerie Flokstra, Internal Rep Martin Jungmark, and Internal Rep Tori Kornelsen</figcaption>
 </figure>
 
+<figure class="quarter">
+<a href="mailto:Nikola.Trotzuk@student.ufv.ca"><img src="/images/NikHeadshot.jpg" alt="Nik Trotzuk"></a>
+<figcaption> External Representative Nik Trotzuk</figcaption>
+</figure>
+
  
 ## Past Executives
 <figure class="quarter">
