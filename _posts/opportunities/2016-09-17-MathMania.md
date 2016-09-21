@@ -17,4 +17,4 @@ Volunteers run individual tables, each with their own activity or activities. Yo
 
 It will be held at Sandy Hill, Abbotsford, on October 5 from 5:00 to 8:30pm
 
-Please contact <a href="mailto:cynthia.loten@ufv.ca">Cynthia Loten</a> by September 24 for more details.
+Please contact <a href="mailto:math.mania@ufv.ca">Cynthia Loten</a> by September 24 for more details.
