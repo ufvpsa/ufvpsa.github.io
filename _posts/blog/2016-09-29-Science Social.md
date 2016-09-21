@@ -3,7 +3,7 @@ layout: post
 title: "UFV Science Social"
 modified:
 categories: blog
-excerpt: 
+excerpt: Join your fellow students, faculty and staff at this social event!
 tags: [social, free food]
 image: 
   feature: 2016ScienceSocial.jpg
