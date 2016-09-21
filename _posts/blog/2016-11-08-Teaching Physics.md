@@ -6,7 +6,7 @@ categories: blog
 excerpt: You don't know it if you can't teach it.
 tags: [experiential learning, academic, guest speaker]
 image: 
-  feature: dark-matter-sky-2.jpg
+  feature: teaching_physics.jpg
 author: perrin
 ---
 

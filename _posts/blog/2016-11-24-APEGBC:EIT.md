@@ -6,7 +6,7 @@ categories: blog
 excerpt: If you want to work as an engineer in Canada, you neet to register with APEG. Learn how to register and more at the talk!
 tags: [lecture, experiential learning, networking, academic]
 image: 
-feature: apegbclogo.jpg
+  feature: apegbclogo.jpg
 author: perrin
 ---
 

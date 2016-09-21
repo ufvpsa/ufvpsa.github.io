@@ -4,9 +4,9 @@ title: "UFV Science Social"
 modified:
 categories: blog
 excerpt: 
-tags: [social]
+tags: [social, free food]
 image: 
-feature: 2016ScienceSocial.jpg
+  feature: 2016ScienceSocial.jpg
 author: perrin
 ---
 
