@@ -5,7 +5,7 @@ modified:
 categories: blog
 excerpt: You don't know it if you can't teach it.
 tags: [experiential learning, academic, guest speaker]
-image: 
+image:
   feature: teaching_physics.jpg
 author: perrin
 ---

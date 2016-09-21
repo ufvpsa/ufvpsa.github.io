@@ -5,7 +5,7 @@ modified:
 categories: blog
 excerpt: Although technical skills are important, most employers hire co-op students based on their soft skills (such as leadership and communication), not their technical ability.
 tags: [academic, experiencial learning]
-image: 
+image:
   feature: science-communication.png
 author: perrin
 ---
