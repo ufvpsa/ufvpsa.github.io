@@ -17,4 +17,4 @@ While we are supported by the UFV Student Union Society, these events could not 
 
 Want to get involved? 
 
-<a markdown="0" href="mailto:ufv.physics@gmail.com" class="btn">Email Us</a>
+<a markdown="0" href="mailto:president@ufvpsa.com" class="btn">Email Us</a>
