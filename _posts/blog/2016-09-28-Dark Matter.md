@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dark Matter"
+title: "Dark Matter - RESCHEDULED"
 modified:
 categories: blog
 excerpt: What is dark matter? Nobody knows, but Dr. Terry Pilkington is trying to find out.
@@ -9,6 +9,8 @@ image:
 feature: dark-matter-sky-2.jpg
 author: perrin
 ---
+
+<b>NOTE: This event has been postponed due to the campus closure on September 28. </b>
 
 >The Standard Model of particle physics has been an enormously successful description of the subatomic world. Despite this, experimental observations hint strongly that something is needed beyond the Standard Model. One such observation is that the Universe requires some form of additional mass, which we call dark matter. Models with a single additional large electroweak scalar multiplet provide a simple extension of the Standard Model. Such models may also provide a natural dark matter candidate. It is then of great interest to determine what constraints, if any, are to be placed on these models. In this talk, I will use a combination of theoretical requirements and experimental results to determine the dark matter prospects of the large multiplet models.
 > -Terry Pilkington
