@@ -20,3 +20,5 @@ There will be music, food, prizes!
 
 This event is presented by the Faculty of Science in partnership with the Advising Centre, Student Life, and CIVL Radio.
 
+![Pic 1](/images/ScienceSocial2016pic1.jpg)
+![Pic 2](/images/ScienceSocial2016pic2.jpg)
