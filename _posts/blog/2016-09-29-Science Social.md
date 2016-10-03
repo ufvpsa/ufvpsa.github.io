@@ -25,4 +25,5 @@ This event is presented by the Faculty of Science in partnership with the Advisi
 Pictures from the event:
 
 ![Pic 1](/images/ScienceSocial2016pic1.jpg)
+
 ![Pic 2](/images/ScienceSocial2016pic2.jpg)
