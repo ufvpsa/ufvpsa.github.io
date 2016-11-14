@@ -10,4 +10,4 @@ image:
 author: perrin
 ---
 
-In order to become an engineer in British Columbia, prospective engineers must register with APEG-BC. APEG-BC Student Coordinator Andrea Michaud and Manager of Member-In-Training Programs Jason Ong will speak about the process of registering as an EIT and will give advice for students hoping to become engineers. This is an exciting opportunity to network with APEG-BC members and learn how to become an engineer. The event will be held from 7pm until 8pm in A353.
+In order to become an engineer in British Columbia, prospective engineers must register with APEG-BC. APEG-BC  Manager of Member-In-Training Programs Jason Ong will speak about the process of registering as an EIT and will give advice for students hoping to become engineers. This is an exciting opportunity to network with APEG-BC members and learn how to become an engineer. The event will be held from 7pm until 8pm in A353.
