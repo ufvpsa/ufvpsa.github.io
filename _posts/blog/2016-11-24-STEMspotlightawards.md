@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "After-School Teaching at CACS"
+title: "STEM Spotlight Awards"
 modified: 2016-09-23T11:11:55-04:00
 categories: blog
 excerpt: Want to make win some money for having a great idea?
