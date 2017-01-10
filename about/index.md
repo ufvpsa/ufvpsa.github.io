@@ -17,8 +17,6 @@ The Physics Student Association is a democratic organization which holds electio
 ## Executives
 <figure class="fifth">
     <a href="mailto:president@ufvpsa.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
-    <a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
-    <a href="mailto:president@ufvpsa.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
 	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
     <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/JessDavies.jpg" alt="Secretary: Jess Davies"/></a>
 <figcaption> President Ryan Chowdry, VP Academic Perrin Waldock, and VP Social Jessica Davies </figcaption>
