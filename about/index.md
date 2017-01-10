@@ -15,11 +15,15 @@ The Physics Student Association is a democratic organization which holds electio
 
 
 ## Executives
+<figure class="half">
+<a href="mailto:president@ufvpsa.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
+<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
+</figure>
 <figure class="third">
     <a href="mailto:president@ufvpsa.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
 	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
     <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/JessDavies.jpg" alt="Secretary: Jess Davies"/></a>
-<figcaption> President Ryan Chowdry, Treasurer/VP Academic Perrin Waldock, and Secretary/VP Social Jessica Davies </figcaption>
+<figcaption> President Ryan Chowdry, VP Academic Perrin Waldock, and VP Social Jessica Davies </figcaption>
 </figure>
 
 # Representatives
@@ -44,6 +48,10 @@ The Physics Student Association is a democratic organization which holds electio
 	<a href="https://www.sfu.ca/physics/people/profiles/etienned.html"><img src="/images/EtienneThumb.jpg" alt="Etienne Dreyer: Vice-President 2013-2015"></a>
 	<a href="http://www.math.uvic.ca/~dcwatson/"><img src="/images/CharlieThumb.png" alt="Charlie Watson: President 2009-2011"></a>
 </figure>
+<figure class="quarter">
+<a href="mailto:caroline.e.r.dearden@gmail.com"><img src="/images/carolineresized.jpg" alt="Caroline Dearden: President 2013-2015"></a>
+</figure>
+
 
 Interested in getting involved with the Physics Student Association?
 
