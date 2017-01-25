@@ -22,4 +22,4 @@ Wed Feb 1
 Student Union Building Atrium
 Free food, SWAG, and more!
 
-For more information, email <a href="mailto:studyabroad@ufv.ca">Inderdeep Singh<\a>.
+For more information, email <a href="mailto:studyabroad@ufv.ca">Inderdeep Singh</a>.

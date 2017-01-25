@@ -14,7 +14,7 @@ author: perrin
 
 WANTED! 
 
-The Central Abbotsford Community School is looking for two fun and responsible Instructors to teach an exciting Advanced Science Program at Eugen Reimer Middle School. Please read the program description and the details below. Your commitment would be 2 hours once a week for an 8 week time line. Wage per hour is $20.00. For more questions or if you are interested, please email your resume to <a href="mailto:kelly.kelemen@abbycommunity.com">Kelly Kelemen<\a>.
+The Central Abbotsford Community School is looking for two fun and responsible Instructors to teach an exciting Advanced Science Program at Eugen Reimer Middle School. Please read the program description and the details below. Your commitment would be 2 hours once a week for an 8 week time line. Wage per hour is $20.00. For more questions or if you are interested, please email your resume to <a href="mailto:kelly.kelemen@abbycommunity.com">Kelly Kelemen</a>.
 
 Program Description:
 Unless you’re a trained scientist or an engineering program graduate, chances are you don’t realize how much this important science impacts our everyday life. Does your child enjoy building or learning about amazing science stuff? Always wonders why and asks about how everything works? Then our Advanced Science Program is the perfect fit for your student! Learn about coding and robotics, gravity, electricity, magnets, gears and all kinds of interesting science topics, through experiments and class discussions.

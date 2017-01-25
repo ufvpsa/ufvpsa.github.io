@@ -22,4 +22,4 @@ QUALIFICATIONS/REQUIRED SKILLS:
 
 The successful candidate should have a background in physics, and should have completed at least some second year physics or engineering courses. As the position also involves presentations, the candidate should be comfortable speaking in front of large groups, and answering questions. In addition, some familiarity with physics experiments and demonstrations will be required, as well as the ability to research and design some compelling applications of physics in action. An enthusiastic love of physics is essential, as is the ability to instil that enthusiasm into a younger audience. So good communication skills are a must.
 
-Go <a href="http://www.ufv.ca/jobs/careerlink/"> here <\a> to apply!
+Go <a href="http://www.ufv.ca/jobs/careerlink/"> here </a> to apply!
