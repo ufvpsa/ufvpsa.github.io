@@ -7,7 +7,7 @@ excerpt:
 tags: [Learning]
 image: 
 feature: 
-date: 2017-01-24T17:50:00-04:00
+date: 2017-02-01T17:50:00-04:00
 author: perrin
 ---
 
