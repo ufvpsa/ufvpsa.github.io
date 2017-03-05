@@ -5,8 +5,8 @@ modified:
 categories: blog
 excerpt: 
 tags: [networking]
-image: Science_Networking_MAR2017.pdf
-  feature: 
+image: 
+  feature: Science_Networking_MAR2017.pdf
 author: perrin
 ---
 
