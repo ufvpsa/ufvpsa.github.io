@@ -6,7 +6,7 @@ categories: blog
 excerpt: 
 tags: [networking]
 image: 
-  feature: Science_Networking_MAR2017.pdf
+  feature: Science_Networking_MAR2017.png
 author: perrin
 ---
 
