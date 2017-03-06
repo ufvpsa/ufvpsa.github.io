@@ -5,7 +5,7 @@ categories: opportunities
 excerpt:
 tags: [Learning]
 image: 
-feature: 
+    feature: 
 date: 2017-03-24T17:50:00-04:00
 author: perrin
 ---
