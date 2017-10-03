@@ -18,9 +18,9 @@ The Physics Student Association is a democratic organization which holds electio
 <figure class="fifth">
     <a href="mailto:president@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="Perrin Waldock"/></a>
     <a href="mailto:vpacademic@ufvpsa.com"><img src="/images/NikHeadshot.jpg" alt="Nikola Trotzuk"/></a>
-    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/Dillon200.jpg" alt="Dillon Duncan"/></a>
-    <a href="mailto:secretary@ufvpsa.com"><img src="/images/psalogo-small.jpg" alt="Rebecca Gourde"/></a>
-    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/psalogo-small.jpg.jpg" alt="Christopher Hack"/></a>
+    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/dillon200.jpg" alt="Dillon Duncan"/></a>
+    <a href="mailto:secretary@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Rebecca Gourde"/></a>
+    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Christopher Hack"/></a>
 <figcaption> President Perrin Waldock, VP Academic Nikola Trotzuk, VP Social Dillon Duncan, Secretary Rebecca Gourde, and Treasurer Christopher Hack </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ The Physics Student Association is a democratic organization which holds electio
 </figure>
 <figure class="quarter">
 <a href="mailto:caroline.e.r.dearden@gmail.com"><img src="/images/CarolineResized.jpg" alt="Caroline Dearden: President 2013-2015"></a>
-<a href="mailto:@ryan.chowdhry@student.ufv.ca"><img src="/images/RyanHeadshot" alt="Ryan Chowdry: President 2016-2017"></a>
+<a href="mailto:@ryan.chowdhry@student.ufv.ca"><img src="/images/Ryan200.jpg" alt="Ryan Chowdry: President 2016-2017"></a>
 </figure>
 
 
