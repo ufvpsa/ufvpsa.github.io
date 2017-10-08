@@ -19,7 +19,7 @@ The Physics Student Association is a democratic organization which holds electio
     <a href="mailto:president@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="Perrin Waldock"/></a>
     <a href="mailto:vpacademic@ufvpsa.com"><img src="/images/NikHeadshot.jpg" alt="Nikola Trotzuk"/></a>
     <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/dillon200.jpg" alt="Dillon Duncan"/></a>
-    <a href="mailto:secretary@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Rebecca Gourde"/></a>
+    <a href="mailto:secretary@ufvpsa.com"><img src="/images/rebecca200.jpg" alt="Rebecca Gourde"/></a>
     <a href="mailto:treasurer@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Christopher Hack"/></a>
 <figcaption> President Perrin Waldock, VP Academic Nikola Trotzuk, VP Social Dillon Duncan, Secretary Rebecca Gourde, and Treasurer Christopher Hack </figcaption>
 </figure>
