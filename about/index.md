@@ -16,24 +16,18 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executives
 <figure class="fifth">
-    <a href="mailto:president@ufvpsa.com"><img src="/images/Ryan200.jpg" alt="image"/></a>
-	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="image"/></a>
-    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/JessDavies.jpg" alt="Secretary: Jess Davies"/></a>
-<figcaption> President Ryan Chowdry, VP Academic Perrin Waldock, and VP Social Jessica Davies </figcaption>
+    <a href="mailto:president@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="Perrin Waldock"/></a>
+    <a href="mailto:vpacademic@ufvpsa.com"><img src="/images/NikHeadshot.jpg" alt="Nikola Trotzuk"/></a>
+    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/dillon200.jpg" alt="Dillon Duncan"/></a>
+    <a href="mailto:secretary@ufvpsa.com"><img src="/images/rebecca200.jpg" alt="Rebecca Gourde"/></a>
+    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Christopher Hack"/></a>
+<figcaption> President Perrin Waldock, VP Academic Nikola Trotzuk, VP Social Dillon Duncan, Secretary Rebecca Gourde, and Treasurer Christopher Hack </figcaption>
 </figure>
 
 # Representatives
 <figure class="quarter">
     <a href="mailto:marlee.fisher@student.ufv.ca"><img src="/images/MarleeHeadshot.jpg" alt="Marlee Fisher"></a>
-	<a href="mailto:Valerie.Flokstra@student.ufv.ca"><img src="/images/ValerieThumb.png" alt="Valerie Flokstra"></a>
-    <a href="mailto:Martin.Jungmark@student.ufv.ca"><img src="/images/MartinHeadshot.png" alt="Martin Jungmark"></a>
-    <a href="mailto:Tori.Kornelsen@student.ufv.ca"><img src="/images/ToriHeadshot2.jpg" alt="Tori Kornelsen"></a>
-<figcaption> Social Media Rep Marlee Fisher, Internal Rep Valerie Flokstra, Internal Rep Martin Jungmark, and Internal Rep Tori Kornelsen</figcaption>
-</figure>
-
-<figure class="quarter">
-<a href="mailto:Nikola.Trotzuk@student.ufv.ca"><img src="/images/NikHeadshot.jpg" alt="Nik Trotzuk"></a>
-<figcaption> External Representative Nik Trotzuk</figcaption>
+<figcaption> Social Media Rep Marlee Fisher</figcaption>
 </figure>
 
  
@@ -46,6 +40,7 @@ The Physics Student Association is a democratic organization which holds electio
 </figure>
 <figure class="quarter">
 <a href="mailto:caroline.e.r.dearden@gmail.com"><img src="/images/CarolineResized.jpg" alt="Caroline Dearden: President 2013-2015"></a>
+<a href="mailto:@ryan.chowdhry@student.ufv.ca"><img src="/images/Ryan200.jpg" alt="Ryan Chowdry: President 2016-2017"></a>
 </figure>
 
 
