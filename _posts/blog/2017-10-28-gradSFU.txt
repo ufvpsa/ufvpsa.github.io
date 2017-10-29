@@ -10,7 +10,7 @@ feature:
 author: rebecca
 ---
 
-<b>Event Name:</b> AGM: Fall 2017
+<b>Event Name:</b> Info session on SFU graduate studies program"
 
 <b>Date and Time:</b> November 1st, 1:30pm
 
