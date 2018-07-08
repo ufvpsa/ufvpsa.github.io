@@ -12,7 +12,7 @@ author: perrin
 
 <b>Event Name:</b> Bad High School Movie Night
 
-<b>Date and Time:</b> March 20 2018 at 14:30
+<b>Date and Time:</b> March 2 2018 at 14:30
 
 <b>Where:</b> A353
 
