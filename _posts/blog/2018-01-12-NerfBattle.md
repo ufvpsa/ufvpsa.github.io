@@ -10,4 +10,4 @@ feature:
 author: perrin
 ---
 
-![Poster](/images/NerfOnUFVTurfV1.pdf)
+![Poster](NerfOnUFVTurfV1.pdf)
