@@ -10,4 +10,4 @@ feature:
 author: perrin
 ---
 
-![Poster](http://www.ufvpsa.com/images/NerfonUFVTurfV1.pdf)
+![Poster](http://www.ufvpsa.com/images/NerfonUFVTurfV1.png)
