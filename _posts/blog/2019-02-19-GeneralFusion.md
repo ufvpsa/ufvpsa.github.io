@@ -4,7 +4,7 @@ title: "General Fusion Tour"
 modified:
 categories: blog
 excerpt: 
-tags: [meeting]
+tags: [academic]
 image:
 feature:  
 author: perrin

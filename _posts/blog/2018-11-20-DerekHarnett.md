@@ -4,7 +4,7 @@ title: "Outside-the-Quark-Model Hadrons from QCD Sum-Rules"
 modified:
 categories: blog
 excerpt: 
-tags: [meeting]
+tags: [academic]
 image:
 feature:  
 author: perrin

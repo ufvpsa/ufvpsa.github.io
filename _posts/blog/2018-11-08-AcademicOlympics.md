@@ -4,7 +4,7 @@ title: "Academic Olympics"
 modified:
 categories: blog
 excerpt: 
-tags: [meeting]
+tags: [social]
 image:
 feature:  
 author: perrin
