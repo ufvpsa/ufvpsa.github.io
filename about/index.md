@@ -18,16 +18,16 @@ The Physics Student Association is a democratic organization which holds electio
 <figure class="fifth">
     <a href="mailto:president@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="Perrin Waldock"/></a>
     <a href="mailto:vpacademic@ufvpsa.com"><img src="/images/NikHeadshot.jpg" alt="Nikola Trotzuk"/></a>
-    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/dillon200.jpg" alt="Dillon Duncan"/></a>
-    <a href="mailto:secretary@ufvpsa.com"><img src="/images/rebecca200.jpg" alt="Rebecca Gourde"/></a>
+    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/rebecca200.jpg" alt="Rebecca Gourde"/></a>
+    <a href="mailto:secretary@ufvpsa.com"><img src="/images/FraserBW200.jpg" alt="Fraser Forbes"/></a>
     <a href="mailto:treasurer@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Christopher Hack"/></a>
-<figcaption> President Perrin Waldock, VP Academic Nikola Trotzuk, VP Social Dillon Duncan, Secretary Rebecca Gourde, and Treasurer Christopher Hack </figcaption>
+<figcaption> President Nikola Trotzuk, VP Academic Perrin Waldock, VP Social Rebecca Gourde, Secretary Fraser Forbes, and Treasurer Christopher Hack </figcaption>
 </figure>
 
 # Representatives
 <figure class="quarter">
-    <a href="mailto:marlee.fisher@student.ufv.ca"><img src="/images/MarleeHeadshot.jpg" alt="Marlee Fisher"></a>
-<figcaption> Social Media Rep Marlee Fisher</figcaption>
+    <a href="mailto:fraser.forbes@student.ufv.ca"><img src="/images/FraserSpace200.jpg" alt="Fraser Forbes"></a>
+<figcaption> Social Media Rep Fraser Forbes</figcaption>
 </figure>
 
  
