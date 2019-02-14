@@ -12,9 +12,9 @@ author: perrin
 
 <b>Event Name:</b> EGBC and Networking Event 
 
-<b>Date and Time:</b> February 12, 2018 from 14:30-16:30 in A353
+<b>Date and Time:</b> RESCHEDULED TO February 26, 2018 from 14:30-16:30 in A353
 
-<b>Description:</b> We will have two speakers on the 12th. 
+<b>Description:</b> We will have two speakers at the event. 
 
 Andrea Michaud is the student coordinator for EGBC, and will speak about how UFV students can register with EGBC, and also how they can get their EIT designation after graduating.
 
