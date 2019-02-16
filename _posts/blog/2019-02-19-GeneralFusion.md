@@ -16,4 +16,4 @@ author: perrin
 
 <b>Other Details:</b> Meet at A353 at 13:30 to carpool to [General Fusion](https://generalfusion.com/)
 
-<b>Description:</b> General Fusion is working on creating a self-sustaining Fusion Reactor to revolutionize clean energy production. The PSA has arranged for a tour of their facility. Spots are limited, so sign up ASAP here](https://goo.gl/forms/GH4EuJJpOqrMKyY32).
+<b>Description:</b> General Fusion is working on creating a self-sustaining Fusion Reactor to revolutionize clean energy production. The PSA has arranged for a tour of their facility. Spots are limited, so sign up ASAP [here](https://goo.gl/forms/GH4EuJJpOqrMKyY32).
