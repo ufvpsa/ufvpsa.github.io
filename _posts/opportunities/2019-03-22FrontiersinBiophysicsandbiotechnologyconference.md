@@ -4,7 +4,7 @@ title: "Frontiers in Biophysics Conference"
 modified:
 categories: opportunities
 excerpt:
-tags: [jobs]
+tags: 
 image: 
 feature: 
 date: 2019-06-28
