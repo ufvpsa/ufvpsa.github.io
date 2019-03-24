@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Science Outreach Winter 2018"
+title: "Frontiers in Biophysics Conference"
 modified:
 categories: opportunities
 excerpt:
-tags: [jobs, teaching]
+tags: [jobs]
 image: 
 feature: 
 date: 2019-06-28
