@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Science Outreach Fall 2017"
+title: "CAP Student Advisory Council"
 modified:
 categories: opportunities
 excerpt:
