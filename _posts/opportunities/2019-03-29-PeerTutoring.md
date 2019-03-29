@@ -10,7 +10,7 @@ feature:
 author: fraser
 ---
 
-![Poster](http://www.ufvpsa.com/images/recruitmentPeerTutoring2019.pdf)
+![Poster](http://www.ufvpsa.com/images/recruitmentPeerTutoring2019.png)
 
    
       
