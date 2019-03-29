@@ -2,7 +2,7 @@
 layout: post
 title: "Peer Tutoring"
 modified:
-categories: blog
+categories: opportunities
 excerpt: 
 tags: [job]
 image: 
