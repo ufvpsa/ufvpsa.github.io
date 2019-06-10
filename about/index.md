@@ -16,10 +16,7 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executives
 <figure class="fifth">
-    <a href="mailto:president@ufvpsa.com"><img src="/images/Perrin200.jpg" alt="Perrin Waldock"/></a>
-    <a href="mailto:vpacademic@ufvpsa.com"><img src="/images/NikHeadshot.jpg" alt="Nikola Trotzuk"/></a>
-    <a href="mailto:vpsocial@ufvpsa.com"><img src="/images/rebecca200.jpg" alt="Rebecca Gourde"/></a>
-    <a href="mailto:secretary@ufvpsa.com"><img src="/images/FraserBW200.jpg" alt="Fraser Forbes"/></a>
+    
     <a href="mailto:treasurer@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Christopher Hack"/></a>
 <figcaption> President Nikola Trotzuk, VP Academic Perrin Waldock, VP Social Rebecca Gourde, Secretary Fraser Forbes, and Treasurer Christopher Hack </figcaption>
 </figure>
@@ -33,6 +30,10 @@ The Physics Student Association is a democratic organization which holds electio
  
 ## Past Executives
 <figure class="quarter">
+	<a href="https://ca.linkedin.com/in/perrin-waldock-58587410a"><img src="/images/Perrin200.jpg" alt="Perrin Waldock"/></a>
+    <a href="/images/NikHeadshot.jpg"><img src="/images/NikHeadshot.jpg" alt="Nikola Trotzuk"/></a>
+    <a href="/images/rebecca200.jpg"><img src="/images/rebecca200.jpg" alt="Rebecca Gourde"/></a>
+    <a href="/images/FraserBW200.jpg"><img src="/images/FraserBW200.jpg" alt="Fraser Forbes"/></a>
 	<a href="http://jasonho.me/"><img src="/images/JasonThumb.jpg" alt="Jason Ho: President 2011-2013"></a>
 	<a href="http://www.joshaho.com"><img src="/images/JoshaHoThumb.jpg" alt="Josha Ho: President 2015-2016"></a>
 	<a href="https://www.sfu.ca/physics/people/profiles/etienned.html"><img src="/images/EtienneThumb.jpg" alt="Etienne Dreyer: Vice-President 2013-2015"></a>
