@@ -16,9 +16,12 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executives
 <figure class="fifth">
-    
-    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Christopher Hack"/></a>
-<figcaption> President Nikola Trotzuk, VP Academic Perrin Waldock, VP Social Rebecca Gourde, Secretary Fraser Forbes, and Treasurer Christopher Hack </figcaption>
+    <a href="mailto:president@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Emily Reittich"/></a>
+	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Kaitlyn Collantes"/></a>
+	<a href="mailto:vpsocial@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Rochelle Thrift"/></a>
+	<a href="mailto:secretary@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Aaron Thiesen"/></a>
+    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/PSALogo200.jpg" alt="Garret Paddon"/></a>
+<figcaption> President Emily Reittich, VP Academic Kaitlyn Collantes, VP Social Rochelle Thrift, Secretary Aaron Thiesen, and Treasurer Garret Paddon </figcaption>
 </figure>
 
 # Representatives
