@@ -13,25 +13,24 @@ perrin:
   email: president@ufvpsa.com
   bio: President
   avatar: PerrinThumb.jpg
-
+  
+fraser:
+  name: Fraser Forbes
+  email: secretary@ufvpsa.com
+  bio: Secretary and Social Media Coordinator
+  avatar: FraserBW200.jpg
+  twitter: UFVPSA
 rebecca:
   name: Rebecca Gourde
   email: secretary@ufvpsa.com
   bio: Secretary
   
- fraser:
-  name: Fraser Forbes
-  email: secretary@ufvpsa.com
-  bio: Secretary and Social Media Coordinator
-  avatar: PerrinThumb.jpg
-  twitter: UFVPSA
-  
-Aaron:
+aaron:
   name: Aaron Thiesen
   email: secretary@ufvpsa.com
   bio: Secretary
   
- Kaitlyn:
+kaitlyn:
   name: Kaitlyn Collantes
   email: vpacademic@ufvpsa.com
   bio: Vice President Academic
