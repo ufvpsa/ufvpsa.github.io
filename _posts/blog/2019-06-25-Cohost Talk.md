@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Cohost talk"
+title: "Cohost talk - Rally for Rail"
 modified:
 categories: blog
 excerpt: 
-tags: [opportunity][academic]
+tags: [opportunity]
 image:
 feature:  
 author: aaron
