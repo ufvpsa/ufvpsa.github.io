@@ -19,5 +19,3 @@ Four awards are available per program:
 • Computer Information Systems
 
 SELECTION: Students will be nominated by their Program department.
-
-</a>.
