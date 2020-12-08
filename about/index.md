@@ -16,12 +16,12 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executives
 <figure class="fifth">
-    <a href="mailto:president@ufvpsa.com"><img src="/images/Dixie200.jpg" alt="Emily Reittich"/></a>
-	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Diddy200.jpg" alt="Kaitlyn Collantes"/></a>
-	<a href="mailto:vpsocial@ufvpsa.com"><img src="/images/Lanky200.jpg" alt="Rochelle Thrift"/></a>
-	<a href="mailto:secretary@ufvpsa.com"><img src="/images/Donkey200.jpg" alt="Aaron Thiesen"/></a>
-    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/Chunky200.jpg" alt="Garret Paddon"/></a>
-<figcaption> President Emily Reittich, VP Academic Kaitlyn Collantes, VP Social Rochelle Thrift, Secretary Aaron Thiesen, and Treasurer Garret Paddon </figcaption>
+    <a href="mailto:president@ufvpsa.com"><img src="/images/Annabelle.jpg" alt="Annabelle Czihaly"/></a>
+	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Garrett.jpg" alt="Garrett Paddon"/></a>
+	<a href="mailto:vpsocial@ufvpsa.com"><img src="/images/Halen.jpg" alt="Halen Davies"/></a>
+	<!-- <a href="mailto:secretary@ufvpsa.com"><img src="/images/Donkey200.jpg" alt="Aaron Thiesen"/></a>-->
+    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/Kaitlyn.jpg" alt="Kaitlyn Collantes"/></a>
+<figcaption> President Annabelle Czihaly, VP Academic Garrett Paddon, VP Social Halen Davies, and Treasurer Kaitlyn Collantes</figcaption>
 </figure>
 
 # Representatives
