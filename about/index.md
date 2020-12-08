@@ -24,11 +24,10 @@ The Physics Student Association is a democratic organization which holds electio
 <figcaption> President Annabelle Czihaly, VP Academic Garrett Paddon, VP Social Halen Davies, and Treasurer Kaitlyn Collantes</figcaption>
 </figure>
 
-# Representatives
+<!-- # Representatives
 <figure class="quarter">
-    <a href="mailto:fraser.forbes@student.ufv.ca"><img src="/images/FraserSpace200.jpg" alt="Fraser Forbes"></a>
-<figcaption> Social Media Rep Fraser Forbes</figcaption>
-</figure>
+<figcaption></figcaption>
+</figure> -->
 
  
 ## Past Executives
@@ -41,6 +40,7 @@ The Physics Student Association is a democratic organization which holds electio
 	<a href="http://www.joshaho.com"><img src="/images/JoshaHoThumb.jpg" alt="Josha Ho: President 2015-2016"></a>
 	<a href="https://www.sfu.ca/physics/people/profiles/etienned.html"><img src="/images/EtienneThumb.jpg" alt="Etienne Dreyer: Vice-President 2013-2015"></a>
 	<a href="http://www.math.uvic.ca/~dcwatson/"><img src="/images/CharlieThumb.png" alt="Charlie Watson: President 2009-2011"></a>
+	<a href="mailto:fraser.forbes@student.ufv.ca"><img src="/images/FraserSpace200.jpg" alt="Fraser Forbes"></a>
 </figure>
 <figure class="quarter">
 <a href="mailto:caroline.e.r.dearden@gmail.com"><img src="/images/CarolineResized.jpg" alt="Caroline Dearden: President 2013-2015"></a>
