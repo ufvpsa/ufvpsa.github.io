@@ -5,7 +5,7 @@ title: Contact Us
 
 General Inquiries:
 
-<a href="mailto:president@ufvpsa.com">president@ufvpsa.com</a>
+<a href="mailto:ufv.physics@gmail.com">ufv.physics@gmail.com</a>
 
 If you want to come chat in person, stop by the UFV Physics Centre (A353) whenever there's open lab time. There's always someone around!
 
