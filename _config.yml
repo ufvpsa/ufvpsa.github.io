@@ -38,6 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Ryan Chowdhry
+  association: PSA
   avatar: bio-photo.jpg
   email: ufv.physics@gmail.com
   disqus-shortname:
