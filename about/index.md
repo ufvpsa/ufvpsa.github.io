@@ -4,7 +4,7 @@ title: About the PSA
 excerpt: "The UFV Physics Student Association provides community, support, and a voice for the physics and engineering students, and physics enthusiasts at the University of the Fraser Valley."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: AcademicHeader.jpg
+  feature: AcademicHeader2.png
 
 
 ---
@@ -20,7 +20,7 @@ The Physics Student Association is a democratic organization which holds electio
 	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Garrett.jpg" alt="Garrett Paddon"/></a>
 	<a href="mailto:vpsocial@ufvpsa.com"><img src="/images/Halen.jpg" alt="Halen Davies"/></a>
 	<!-- <a href="mailto:secretary@ufvpsa.com"><img src="/images/Donkey200.jpg" alt="Aaron Thiesen"/></a>-->
-    <a href="mailto:treasurer@ufvpsa.com"><img src="/images/Kaitlyn.jpg" alt="Kaitlyn Collantes"/></a>
+    <a href="mailto:Kaitlyn.Collantes@student.ufv.ca"><img src="/images/Kaitlyn.jpg" alt="Kaitlyn Collantes"/></a>
 <figcaption> President Annabelle Czihaly, VP Academic Garrett Paddon, VP Social Halen Davies, and Treasurer Kaitlyn Collantes</figcaption>
 </figure>
 
