@@ -4,7 +4,7 @@ title: About the PSA
 excerpt: "The UFV Physics Student Association provides community, support, and a voice for the physics and engineering students, and physics enthusiasts at the University of the Fraser Valley."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: AcademicHeader2.png
+  feature: AcademicHeader.jpg
 
 
 ---
