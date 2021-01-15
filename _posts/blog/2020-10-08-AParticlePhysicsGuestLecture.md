@@ -4,7 +4,7 @@ title: "Quarks, Leptons, and the Z in Between: A Particle Physics Guest Lecture 
 modified:
 categories: blog
 excerpt: 
-tags: [social]
+tags: [academic]
 image:
 feature:  
 author: annabelle
