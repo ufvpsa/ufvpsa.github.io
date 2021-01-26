@@ -13,6 +13,6 @@ author: annabelle
 
 <b>When:</b> February 4, 2021 
 
-<b>Where:</b> Via Zoom (Meeting ID: 685 1398 1475 Passcode: ufvpsa) RSVP mycampuslife at this link: https://ufv.campuslabs.ca/engage/event/175255
+<b>Where:</b> Via Zoom (Meeting ID: 685 1398 1475 Passcode: ufvpsa) RSVP mycampuslife at this <a href="https://ufv.campuslabs.ca/engage/event/175255">link</a>
 
-![Poster](http://www.ufvpsa.com/images/The Galactic Gal Poster.png)
+![Poster](http://www.ufvpsa.com/images/The_Galactic_Gal_Poster.png)
