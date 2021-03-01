@@ -23,3 +23,11 @@
   })();
 </script>
 {% endif %}
+
+<!-- Events Page Pop-up -->
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src="{{ base.url | prepend: site.url }}/assets/js/popup.js"></script>
+  {% endfor %}
+{% endif %}
+
