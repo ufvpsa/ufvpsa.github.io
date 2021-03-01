@@ -9,8 +9,7 @@ custom_js:
 - popup.js
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/popup.css" />
-<!--<link rel="stylesheet" href="{{ '/assets/css/popup.css' | relative_url }}"/>-->
+<link rel="stylesheet" href="/assets/css/popup.css" />
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
@@ -23,7 +22,6 @@ custom_js:
     <div class="modal-header">
       <span class="close">&times;</span>
       <h2>Heads Up!</h2>
-      <a href="{{ site.baseurl }}/images/email.png" id="logo"></a>
     </div>
     <div class="modal-body">
       <p>For an up-to-date list of all events running, please check out 
