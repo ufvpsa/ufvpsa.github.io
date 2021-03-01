@@ -10,6 +10,7 @@ custom_js:
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/popup.css" />
+<!--<link rel="stylesheet" href="{{ '/assets/css/popup.css' | relative_url }}"/>-->
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
