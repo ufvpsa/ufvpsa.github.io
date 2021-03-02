@@ -17,3 +17,5 @@ Guest lecture by Tim on the fascinating history of astronomy!
 <b>Where:</b> Via Zoom, RSVP on mycampuslife at <a href="https://ufv.campuslabs.ca/engage/event/178091">https://ufv.campuslabs.ca/engage/event/178091</a>
 
 (Meeting link will be posted on MCL event page the week of the event)
+
+![Poster](http://www.ufvpsa.com/images/HistoryofAstroPOSTER.jpg)
