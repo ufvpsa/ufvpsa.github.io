@@ -52,6 +52,6 @@ Interested in getting involved with the Physics Student Association?
 
 The PSA has numerous ongoing initiatives during the semester on and off campus to learn more outside of the classroom environment and build your portfolio. Send us an email and we’ll connect you with something great!
 
-The UFV PSA is a registered student association under the University of the Fraser Valley Student Union Society. As such, we are governed by a democratic [**constitution**]({{site.url}}/assets/pdfs/2016-04-08PSAConstitution.pdf).
+The UFV PSA is a registered student association under the University of the Fraser Valley Student Union Society. As such, we are governed by a democratic [**constitution**]({{site.url}}/assets/pdfs/PSAConstitution2021-04-24.pdf).
 
 <a markdown="0" href="mailto:ufv.physics@gmail.com" class="btn">Email Us</a>
