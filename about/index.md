@@ -16,19 +16,13 @@ The Physics Student Association is a democratic organization which holds electio
 
 ## Executives
 <figure class="fifth">
-    <a href="mailto:president@ufvpsa.com"><img src="/images/Annabelle.jpg" alt="Annabelle Czihaly"/></a>
-	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Garrett.jpg" alt="Garrett Paddon"/></a>
-	<a href="mailto:vpsocial@ufvpsa.com"><img src="/images/Halen.jpg" alt="Halen Davies"/></a>
-	<!-- <a href="mailto:secretary@ufvpsa.com"><img src="/images/Donkey200.jpg" alt="Aaron Thiesen"/></a>-->
-    <a href="mailto:Kaitlyn.Collantes@student.ufv.ca"><img src="/images/Kaitlyn.jpg" alt="Kaitlyn Collantes"/></a>
-<figcaption> President Annabelle Czihaly, VP Academic Garrett Paddon, VP Social Halen Davies, and Treasurer Kaitlyn Collantes</figcaption>
+    <a href="mailto:president@ufvpsa.com"><img src="/images/Annabelle2.jpg" alt="Annabelle Czihaly"/></a>
+	<a href="mailto:vpacademic@ufvpsa.com"><img src="/images/Halen.jpg" alt="Halen Davies"/></a>
+	<a href="mailto:vpsocial@ufvpsa.com"><img src="/images/CatherineLaflamme.jpg" alt="Catherine Laflamme"/></a>
+    <a href="mailto:secretary@ufvpsa.com"><img src="/images/MadisynTaylor.jpeg" alt="Madisyn Taylor"/></a>
+	<a href="mailto:treasurer@ufvpsa.com"><img src="/images/JoseToffoli.jpeg" alt="Jose Toffoli"/></a>
+<figcaption> President Annabelle Czihaly, VP Academic Halen Davies, VP Social Catherine Laflamme, Secretary Madisyn Taylor, and Treasurer Jose Toffoli</figcaption>
 </figure>
-
-<!-- # Representatives
-<figure class="quarter">
-<figcaption></figcaption>
-</figure> -->
-
  
 ## Past Executives
 <figure class="quarter">
@@ -45,6 +39,8 @@ The Physics Student Association is a democratic organization which holds electio
 <a href="mailto:caroline.e.r.dearden@gmail.com"><img src="/images/CarolineResized.jpg" alt="Caroline Dearden: President 2013-2015"></a>
 <a href="mailto:@ryan.chowdhry@student.ufv.ca"><img src="/images/Ryan200.jpg" alt="Ryan Chowdry: President 2016-2017"></a>
 <a href="mailto:fraser.forbes@student.ufv.ca"><img src="/images/FraserSpace200.jpg" alt="Fraser Forbes"></a>
+<a href="mailto:Kaitlyn.Collantes@student.ufv.ca"><img src="/images/Kaitlyn.jpg" alt="Kaitlyn Collantes: Treasurer 2020-2021"/></a>
+<a href="mailto:garrettpaddon14@gmail.com"><img src="/images/Garrett.jpg" alt="Garrett Paddon: VP Academic 2020-2021"/></a>
 </figure>
 
 
