@@ -7,6 +7,7 @@ logo: psalogoinverted.png
 search: true
 baseurl: 
 url: 
+google_analytics: UA-84824114-1
 
 # Jekyll configuration
 
